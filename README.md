@@ -8,7 +8,7 @@ A sample .s file is given (test.s)
 
 ## Commands
 Once you start the program, you will see  
-```> ```
+```> ```  
 You can type in the following commands:
 * **help**: Print the help screen
 * **next or n**: Next instruction
